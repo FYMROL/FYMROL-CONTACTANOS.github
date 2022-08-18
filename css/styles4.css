@@ -12,6 +12,10 @@ body {
   background-color: #000000e0;
   background-size:cover;
 }
+header{
+  position: relative;
+  top: 50px;
+}
 .btn-action {
   font-weight: bold;
   /* background: transparent!important; */
